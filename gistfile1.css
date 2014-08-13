@@ -1,0 +1,4 @@
+.review-wrapper {text-align:center; margin:15px auto;}
+.review-wrapper .wp-caption.alignnone {display: inline-block;margin-right: 15px;}
+.review-wrapper .wp-caption.alignnone:last-child{margin-right:0;}
+.review-wrapper p.copy {text-align:left;}
